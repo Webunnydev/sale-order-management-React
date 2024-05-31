@@ -19,7 +19,7 @@ This project is a Sale Orders Management System built with React and Chakra UI. 
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/sale-orders-management.git
+git clone https://github.com/Webunnydev/sale-order-management-React.git
 cd sale-orders-management
 npm install
 ```
