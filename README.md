@@ -22,3 +22,24 @@ git clone https://github.com/yourusername/sale-orders-management.git
 cd sale-orders-management
 npm install
 
+## Usage
+
+```bash
+npm start
+
+## Project Structure
+
+Here's a brief overview of the project's structure:
+```bash
+src/
+├── components/
+│   ├── ActiveOrders.js
+│   ├── CompletedOrders.js
+│   ├── EditOrderModal.js
+│   ├── SaleOrderForm.js
+│   ├── ThemeToggle.js
+├── utils/
+│   └── data.js
+├── App.js
+├── index.js
+└── SaleOrders.js
