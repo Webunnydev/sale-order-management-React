@@ -21,7 +21,7 @@ To get started with the project, clone the repository and install the dependenci
 git clone https://github.com/yourusername/sale-orders-management.git
 cd sale-orders-management
 npm install
-'''bash 
+'''
 ## Usage
 
 ```bash
