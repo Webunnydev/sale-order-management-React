@@ -10,8 +10,9 @@ This project is a Sale Orders Management System built with React and Chakra UI. 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Components](#components)
 - [Contributing](#contributing)
-- [License](#license)
+ 
 
 ## Installation
 
@@ -21,12 +22,12 @@ To get started with the project, clone the repository and install the dependenci
 git clone https://github.com/yourusername/sale-orders-management.git
 cd sale-orders-management
 npm install
-'''
+```
 ## Usage
 
 ```bash
 npm start
-
+```
 ## Project Structure
 
 Here's a brief overview of the project's structure:
@@ -43,3 +44,22 @@ src/
 ├── App.js
 ├── index.js
 └── SaleOrders.js
+```
+
+## Components
+* ActiveOrders.js: Displays the list of active orders.
+* CompletedOrders.js: Displays the list of completed orders.
+* EditOrderModal.js: Modal for editing an order.
+* SaleOrderForm.js: Form for creating a new sale order.
+* ThemeToggle.js: Component for toggling the theme.
+* data.js: Contains the product data and a function to save order data.
+
+## Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch: git checkout -b feature-branch-name.
+3. Make your changes and commit them: git commit -m 'Add some feature'.
+4. Push to the branch: git push origin feature-branch-name.
+5. Open a pull request.
+
